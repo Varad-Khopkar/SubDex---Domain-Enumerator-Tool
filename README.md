@@ -12,12 +12,15 @@ Key Features:
 Usage:
 
 1. Install dependencies:
+   
 ![alt text](image.png)
 
-2. Clone the repository:
+3. Clone the repository:
+   
 ![alt text](image-1.png)
 
-3. Run the tool:
+5. Run the tool:
+   
 ![alt text](image-2.png)
 
 
@@ -29,6 +32,7 @@ Options:
 -v: Enables verbose output.
 
 Example:
+
 ![alt text](image-3.png)
 
 
