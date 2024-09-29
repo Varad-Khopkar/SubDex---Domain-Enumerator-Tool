@@ -9,4 +9,35 @@ Key Features:
 -Efficient processing: Optimizes performance through parallel processing and caching.
 
 
-![image](https://github.com/user-attachments/assets/9b1ced55-b78b-4fdb-b2df-5913e3be4a29)
+Usage:
+
+1. Install dependencies:
+![alt text](image.png)
+
+2. Clone the repository:
+![alt text](image-1.png)
+
+3. Run the tool:
+![alt text](image-2.png)
+
+
+Options:
+
+-t: Specifies the target domain.
+-w: Provides a custom wordlist file.
+-o: Specifies the output file.
+-v: Enables verbose output.
+
+Example:
+![alt text](image-3.png)
+
+
+Contributing:
+Contributions are welcome! Please feel free to submit bug reports, feature requests, or pull requests.
+
+License:   
+SubDex is released under the MIT License.
+
+Acknowledgements:
+The tool incorporates ideas and techniques from existing subdomain enumeration tools.
+Special thanks to the contributors for their valuable contributions.
