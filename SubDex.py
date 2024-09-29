@@ -58,7 +58,7 @@ def start_enumeration():
 
 # Create the main window
 window = tk.Tk()
-window.title("Subdomain Enumerator")
+window.title("SubDex")
 
 # Create labels and entry fields
 domain_label = tk.Label(window, text="Enter Target Domain:")
